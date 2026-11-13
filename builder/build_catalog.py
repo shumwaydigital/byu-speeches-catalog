@@ -31,7 +31,7 @@ import urllib.request
 
 SITE = "https://speeches.byu.edu"
 USER_AGENT = ("BYUSpeechesCatalog/1.0 (personal catalog builder, 1 request/second; "
-              "https://github.com/ljshumway-dev/byu-speeches-catalog)")
+              "https://github.com/shumwaydigital/byu-speeches-catalog)")
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DETAILS_PATH = os.path.join(ROOT, "data", "details.json")
 SNAPSHOT_DIR = os.path.join(ROOT, "data", "snapshots")
