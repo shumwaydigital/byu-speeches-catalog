@@ -29661,7 +29661,7 @@
  },
  "29600": {
   "dur": 3017,
-  "fetched": "2026-11-14",
+  "fetched": "2026-11-18",
   "keywords": [
    "temple worship",
    "spiritual power",
@@ -29677,7 +29677,7 @@
    "how fasting is feasting on the Spirit",
    "seeking practical answers through temple worship"
   ],
-  "modified": "2026-11-13T10:21:46",
+  "modified": "2026-11-17T12:36:14",
   "mp3": "https://speeches.byu.edu/wp-content/uploads/2024/12/BYUS-Madsen-Truman_-1972-03-05.mp3",
   "videos": []
  },
@@ -36648,9 +36648,9 @@
  },
  "32521": {
   "dur": 1514,
-  "fetched": "2026-11-11",
+  "fetched": "2026-11-18",
   "keywords": [],
-  "modified": "2026-11-10T21:00:06",
+  "modified": "2026-11-17T17:16:57",
   "mp3": "https://speeches.byu.edu/wp-content/uploads/2026/11/BYUS-Koch-Joni-L.-2026_11_10-v1.0.mp3",
   "videos": [
    {
@@ -36683,6 +36683,19 @@
   "modified": "2026-11-12T15:54:02",
   "mp3": "https://speeches.byu.edu/wp-content/uploads/2020/02/Oaks_Dallin_1993_06_06_edited.mp3",
   "videos": []
+ },
+ "32532": {
+  "dur": null,
+  "fetched": "2026-11-18",
+  "keywords": [],
+  "modified": "2026-11-17T12:48:15",
+  "mp3": null,
+  "videos": [
+   {
+    "id": "EIuE5SAoLNk",
+    "kind": "full"
+   }
+  ]
  },
  "3256": {
   "dur": 1596,
