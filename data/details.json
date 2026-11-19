@@ -36685,15 +36685,19 @@
   "videos": []
  },
  "32532": {
-  "dur": null,
-  "fetched": "2026-11-18",
+  "dur": 2011,
+  "fetched": "2026-11-19",
   "keywords": [],
-  "modified": "2026-11-17T12:48:15",
-  "mp3": null,
+  "modified": "2026-11-18T12:24:38",
+  "mp3": "https://speeches.byu.edu/wp-content/uploads/2026/11/BYUS-Snyder-Anne-2026_11_17.mp3",
   "videos": [
    {
-    "id": "EIuE5SAoLNk",
+    "id": "-1kAAlm7oNU",
     "kind": "full"
+   },
+   {
+    "id": "EIuE5SAoLNk",
+    "kind": "short"
    }
   ]
  },
